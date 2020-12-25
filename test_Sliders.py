@@ -1,4 +1,3 @@
-from django.forms import models
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -7,22 +6,25 @@ from selenium.webdriver.support.select import Select
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 import pytest, time
-from django.core import validators
 
 ########################################################################
+def test_setup():
+    global driver
+    driver=webdriver.Chrome(executable_path="C:/Projects/Automation/Drivers/chromedriver.exe")
+    driver.maximize_window()
+    driver.get("http://practice.automationtesting.in/")
+    driver.implicitly_wait(10)
+    list=driver.find_element_by_xpath('//*[@id="n2-ss-6"]')
+    print(list)
 
-driver=webdriver.Chrome(executable_path="C:/Projects/Automation/Drivers/chromedriver.exe")
-driver.maximize_window()
-driver.get("http://practice.automationtesting.in/")
-driver.implicitly_wait(10)
-list=driver.find_element_by_xpath('//*[@id="n2-ss-6"]')
-print(list)
+def test_Validate3Sliders():
+    element=driver.find_elements_by_css_selector('.n2-ss-slide-background-image.n2-ss-slide-fill.n2-ow')
+    assert 3==(len(element)), "test failed!!!"
+    print("There are only 3 elements in the carousel")
+    print("Test Pass")
 
-element=driver.find_elements_by_css_selector('.n2-ss-slide-background-image.n2-ss-slide-fill.n2-ow')
-assert 3==(len(element)), "test failed!!!"
-print("There are only 3 elements in the carousel")
-print("Test Pass")
-driver.quit()
+def test_teardown():
+    driver.quit()
 # To Get the Number of Items in the Carousel
 #
 # String selector = “li[class^=a-carousel-card]”;
