@@ -127,8 +127,9 @@ def test_Checkout():
     driver.find_element_by_css_selector('.showcoupon').send_keys('krishnasakinala')
     time.sleep(2)
     driver.find_element_by_css_selector("#place_order").click()
-    wait.until(EC.text_to_be_present_in_element((By.XPATH, '//*[@id="page-35"]/div/div[1]/p[1]'), "Thank you. Your order has been received."))
-    # time.sleep(5)
+    wait.until(EC.text_to_be_present_in_element((By.XPATH, '//*[@id="page-35"]/div/div[1]/p[1]'), "Thank you. Your order has been received.")
+               
+#ADDING A NEW COMMENT 4 COMMIT     # time.sleep(5)
     # assert "Basket Totals" ==title.text
 # def test_teardown():
 #     driver.quit()
