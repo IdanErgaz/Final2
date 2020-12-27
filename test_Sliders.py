@@ -21,7 +21,9 @@ def test_Validate3Sliders():
     element=driver.find_elements_by_css_selector('.n2-ss-slide-background-image.n2-ss-slide-fill.n2-ow')
     assert 3==(len(element)), "test failed!!!"
     print("There are only 3 elements in the carousel")
-    print("Test Pass")
+
+
+
 
 def test_teardown():
     driver.quit()

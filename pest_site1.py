@@ -62,7 +62,7 @@ def test_setup():
 #     ########################
 #     phone = WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.CSS_SELECTOR, "#basicBootstrapForm > div:nth-child(4) > div > input")))
 #     print(phone.get_attribute("validationMessage"))
-#     assert ("Please fill out this field.")==phone.get_attribute("validationMessage")
+#     assert ("Please fill out this field.")==phone.get_attribute("validationMessage") #check tooltip
 #     driver.find_element(By.CSS_SELECTOR, "#basicBootstrapForm > div:nth-child(4) > div > input").send_keys("0553444171")
 #     time.sleep(2)
 #     yearBox=Select(driver.find_element_by_id("yearbox")) #set year ddl
