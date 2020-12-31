@@ -1,0 +1,700 @@
+1609416951568	geckodriver	INFO	Listening on 127.0.0.1:57008
+1609416955218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileAfpWp2"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609416987248	Marionette	INFO	Listening on port 57020
+1609416987870	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609417035913	Marionette	INFO	Stopped listening on port 57020
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+emp\\rust_mozprofilevEP5xC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609417043147	Marionette	INFO	Listening on port 57155
+1609417043469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609417163100	Marionette	INFO	Stopped listening on port 57155
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609417164900	geckodriver	INFO	Listening on 127.0.0.1:57322
+1609417167867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileH7DRip"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609417172653	Marionette	INFO	Listening on port 57332
+1609417172812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609417191729	Marionette	INFO	Stopped listening on port 57332
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609417222256	geckodriver	INFO	Listening on 127.0.0.1:57412
+1609417225236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilexWuLXA"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609417230722	Marionette	INFO	Listening on port 57423
+1609417230784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609417478532	Marionette	INFO	Stopped listening on port 57423
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileYRzmQ1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609417307295	Marionette	INFO	Listening on port 57545
+1609417308411	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13160, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609417478278	Marionette	INFO	Stopped listening on port 57545
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+avaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609417414816	Marionette	INFO	Listening on port 57703
+1609417415170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609417478531	Marionette	INFO	Stopped listening on port 57703
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609417563293	geckodriver	INFO	Listening on 127.0.0.1:57890
+1609417566374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileBAqkAs"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609417571841	Marionette	INFO	Listening on port 57901
+1609417571918	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:566:5\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+[Parent 3864, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609418165795	Marionette	INFO	Stopped listening on port 57901
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609418169056	geckodriver	INFO	Listening on 127.0.0.1:58495
+1609418172071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileI1o3oC"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609418176746	Marionette	INFO	Listening on port 58506
+1609418177019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609418186274	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81117
+1609418487848	Marionette	INFO	Stopped listening on port 58506
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+emp\\rust_mozprofileLLzHbp"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609418448445	Marionette	INFO	Listening on port 58791
+1609418448554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609418460766	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81117
+1609418488873	Marionette	INFO	Stopped listening on port 58791
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609418569011	geckodriver	INFO	Listening on 127.0.0.1:58967
+1609418572037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilee02tD9"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609418576980	Marionette	INFO	Listening on port 58978
+1609418577492	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609418589511	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81117
+1609418841142	Marionette	INFO	Stopped listening on port 58978
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+emp\\rust_mozprofile7DYz0p"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609418799733	Marionette	INFO	Listening on port 59342
+1609418799827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609418810539	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81117
+1609418839953	Marionette	INFO	Stopped listening on port 59342
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609418852536	geckodriver	INFO	Listening on 127.0.0.1:59430
+1609418855557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileHBZiWl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609418859605	Marionette	INFO	Listening on port 59440
+1609418859902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609418867492	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1609418870146	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81117
+1609418870353	Marionette	INFO	Stopped listening on port 59440
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609418896754	geckodriver	INFO	Listening on 127.0.0.1:59621
+1609418899771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileNpUWmT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609418904674	Marionette	INFO	Listening on port 59631
+1609418904742	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609418915353	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81117
+1609418925561	Marionette	INFO	Stopped listening on port 59631
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609419014587	geckodriver	INFO	Listening on 127.0.0.1:59777
+1609419017603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilejUzXoH"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609419021412	Marionette	INFO	Listening on port 59788
+1609419021448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609419031390	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81117
+1609419041597	Marionette	INFO	Stopped listening on port 59788
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609419103713	geckodriver	INFO	Listening on 127.0.0.1:59906
+1609419106732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileSj7V80"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609419110741	Marionette	INFO	Listening on port 59916
+1609419111094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609419121111	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81117
+1609419131318	Marionette	INFO	Stopped listening on port 59916
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609419172186	geckodriver	INFO	Listening on 127.0.0.1:60013
+1609419175202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiles6LZDV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609419179139	Marionette	INFO	Listening on port 60023
+1609419179556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609419189774	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81117
+1609419342274	Marionette	INFO	Stopped listening on port 60023
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609419347444	geckodriver	INFO	Listening on 127.0.0.1:60238
+1609419350461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileteSWov"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609419355282	Marionette	INFO	Listening on port 60249
+1609419355406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609419365568	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81117
+[Parent 4124, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609419541514	Marionette	INFO	Stopped listening on port 60249
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609419512830	Marionette	INFO	Listening on port 60436
+1609419514093	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609419538199	Marionette	INFO	Stopped listening on port 60436
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609419554381	geckodriver	INFO	Listening on 127.0.0.1:60521
+1609419557397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilekGVnxB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609419563655	Marionette	INFO	Listening on port 60531
+1609419563958	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6868, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609419658113	Marionette	INFO	Stopped listening on port 60531
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609419662178	geckodriver	INFO	Listening on 127.0.0.1:60660
+1609419665195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiled8FhlG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609419669582	Marionette	INFO	Listening on port 60671
+1609419669646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609419821720	Marionette	INFO	Stopped listening on port 60671
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609419823487	geckodriver	INFO	Listening on 127.0.0.1:60910
+1609419826503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilehswBIt"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609419831121	Marionette	INFO	Listening on port 60921
+1609419831449	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6096, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609421031653	Marionette	INFO	Stopped listening on port 60921
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609420244788	Marionette	INFO	Listening on port 61337
+1609420244856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609420319542	Marionette	INFO	Stopped listening on port 61337
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609420585021	geckodriver	INFO	Listening on 127.0.0.1:61736
+1609420588030	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileFR5JVc"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609420593042	Marionette	INFO	Listening on port 61747
+1609420593481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609420629028	Marionette	INFO	Stopped listening on port 61747
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609420862427	geckodriver	INFO	Listening on 127.0.0.1:62049
+1609420865438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileq5nPmr"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609420869764	Marionette	INFO	Listening on port 62059
+1609420869895	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609421032908	Marionette	INFO	Stopped listening on port 62059
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609421040157	geckodriver	INFO	Listening on 127.0.0.1:62287
+1609421043170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileFb9UQQ"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609421049399	Marionette	INFO	Listening on port 62299
+1609421049737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609421173455	Marionette	INFO	Stopped listening on port 62299
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+emp\\rust_mozprofiledIZ2ka"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609421117501	Marionette	INFO	Listening on port 62408
+1609421117831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609421171893	Marionette	INFO	Stopped listening on port 62408
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609421467568	geckodriver	INFO	Listening on 127.0.0.1:62768
+1609421470579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile0cFS4T"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609421475689	Marionette	INFO	Listening on port 62778
+1609421476033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609421618528	Marionette	INFO	Stopped listening on port 62778
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+emp\\rust_mozprofileuCjEG7"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609421565496	Marionette	INFO	Listening on port 62904
+1609421565750	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609421617109	Marionette	INFO	Stopped listening on port 62904
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609421927795	geckodriver	INFO	Listening on 127.0.0.1:63322
+1609421930773	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileOcRNGT"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609421935966	Marionette	INFO	Listening on port 63333
+1609421936217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609422090772	Marionette	INFO	Stopped listening on port 63333
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+emp\\rust_mozprofileE7FTRt"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609422032557	Marionette	INFO	Listening on port 63468
+1609422033029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609422092462	Marionette	INFO	Stopped listening on port 63468
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609422095086	geckodriver	INFO	Listening on 127.0.0.1:63566
+1609422098102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileMQZAHl"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609422103285	Marionette	INFO	Listening on port 63577
+1609422103549	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6880, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609422286867	Marionette	INFO	Stopped listening on port 63577
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609422185003	Marionette	INFO	Listening on port 63707
+1609422185070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609422289402	Marionette	INFO	Stopped listening on port 63707
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilef6LQtB"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609422292657	Marionette	INFO	Listening on port 63888
+1609422293040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609422309451	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81476
+ajax@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:77295
+k._evalUrl@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:79350
+Ie@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:48088
+append@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:49520
+html/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50612
+_@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:31840
+html@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:50290
+success@https://opensource-demo.orangehrmlive.com/index.php/dashboard:1253:36
+c@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:27742
+fireWith@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:28487
+l@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:78789
+o/<@https://opensource-demo.orangehrmlive.com/webres_5faa8393a82311.28834036/js/jquery/jquery-3.4.1.min.js:2:81117
+1609422330143	Marionette	INFO	Stopped listening on port 63888
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609422349817	geckodriver	INFO	Listening on 127.0.0.1:64000
+1609422352831	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofiletSx8sY"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609422356572	Marionette	INFO	Listening on port 64011
+1609422356684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609422381963	Marionette	INFO	Stopped listening on port 64011
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1609422411853	geckodriver	INFO	Listening on 127.0.0.1:64101
+1609422414869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileolOMl1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609422419528	Marionette	INFO	Listening on port 64111
+1609422419815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609422441569	Marionette	INFO	Stopped listening on port 64111
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
